@@ -1,0 +1,4 @@
+.qc_sideBar{position: fixed;left: 0px;top: 0px;width: 100%;overflow-x: hidden;z-index: 9999;}
+.qc_sideBar .model{width: 100%;height: 1000px;background-color: #f4f4f4;left: 0px;top: 0px;opacity: 0.5;float: left;}
+.qc_sideBar .qc_sideBar_Contain{width: 500px;height: 600px; background-color: #fff;position: absolute;right: -505px;}
+.qc_sideBar .qc_sideBar_Contain .title{width: 100%;height: 36px;background-color:lightblue;color: #666;padding-left: 5px;line-height: 34px;}
