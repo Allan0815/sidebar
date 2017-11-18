@@ -29,7 +29,6 @@
                 $('.qc_sideBar_Contain').animate({ right: '-' + param._width }, 500);
                 setTimeout(function () { $('.qc_sideBar').remove(); }, 500);
             })
-
             return this;
         }
     });
