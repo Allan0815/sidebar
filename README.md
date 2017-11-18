@@ -1,4 +1,4 @@
-# QC_sidebar
+# QC_sidebar 侧边栏
 For SideBar,Jq Extend
 
 --description
