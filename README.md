@@ -7,3 +7,5 @@ For SideBar,Jq Extend
 how to use
 
 在使用侧边栏的页面引用qc_sidebar.css文件和qc_sidebar.js文件即可，这是基于Jquery的插件，当然要应用jq，对jq版本没要求。
+
+调用方式  $().qc_Sidebar({ _title: '测试标题', _content: '测试内容 内容' });
